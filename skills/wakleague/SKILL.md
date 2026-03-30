@@ -1,5 +1,15 @@
 # WakLeague - Discord PvP Matchmaking Bot
 
+---
+name: "WakLeague"
+description: "Discord PvP Matchmaking Bot for the game Wakfu. Manages registration, ELO, matchmaking, clans, tournaments and more."
+author: "utojiko"
+tags:
+    - discord
+    - matchmaking
+    - wakfu
+---
+
 ## Overview
 
 **WakLeague** is a Discord bot for competitive PvP matchmaking on the game **Wakfu**. It manages player registration, automatic matchmaking with ELO ranking, tournaments, clans, battle pass, achievements, pets, and chests.
